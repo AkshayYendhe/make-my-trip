@@ -11,6 +11,6 @@ public class train {
 
     @GetMapping({"/train"})
     public String getData() {
-        return "Please book your train from makemytrip kindly book ticket for New Delhi to anywhere at 10% discount";
+        return "Please book your trains from makemytrip kindly book ticket for New Delhi to anywhere at 10% discount";
     }
 }
