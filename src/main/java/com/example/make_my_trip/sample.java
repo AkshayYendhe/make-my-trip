@@ -10,6 +10,6 @@ public class sample {
 
     @GetMapping({"/sample"})
     public String getData() {
-        return "Please booking your sample from makemytrip kindly book ticket for New Delhi to anywhere at 10% discount";
+        return "Please book your sample from makemytrip kindly book ticket for New Delhi to anywhere at 10% discount";
     }
 }
