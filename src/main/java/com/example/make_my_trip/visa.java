@@ -9,7 +9,9 @@ public class visa {
     @GetMapping({"/visa"})
     public String getData() {
 
-        return "visa for 40 days";
+
+        return "visa for 50 days";
+
 
     }
 }
