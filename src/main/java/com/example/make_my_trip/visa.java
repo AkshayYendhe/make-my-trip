@@ -10,6 +10,7 @@ public class visa {
     public String getData() {
 
 
+
         return "visa for 50 days";
 
 
