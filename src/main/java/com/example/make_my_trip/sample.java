@@ -4,12 +4,12 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class bus {
-    public bus() {
+public class sample {
+    public sample() {
     }
 
-    @GetMapping({"/bus"})
+    @GetMapping({"/sample"})
     public String getData() {
-        return "Get Visa for 30 days";
+        return "sample";
     }
 }
