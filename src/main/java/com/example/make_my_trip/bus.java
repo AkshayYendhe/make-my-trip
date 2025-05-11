@@ -10,6 +10,6 @@ public class bus {
 
     @GetMapping({"/bus"})
     public String getData() {
-        return "Please book your bus from busadda kindly book ticket for New Delhi to anywhere at 10% discount";
+        return "Get Visa for 30 days";
     }
 }
