@@ -12,7 +12,7 @@ public class visa {
     @GetMapping({"/visa"})
     public String getData() {
 
-        return "sample visa";
+        return "sample visa for 20 days";
 
     }
 }
